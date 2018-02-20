@@ -1,0 +1,12 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst visualstudiocode
+cinst postman
+cinst docker
+cinst docker-compose
+cinst nodejs.install
+cinst gpg4win-vanilla
+
+cinst Microsoft-Hyper-V-All -source windowsFeatures
+cinst IIS-WebServerRole -source windowsfeatures
