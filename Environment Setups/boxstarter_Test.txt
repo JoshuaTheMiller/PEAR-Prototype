@@ -1,0 +1,14 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+cinst gpg4win
+cinst git.install
+cinst visualstudiocode
+
+cinst postman
+
+cinst docker
+
+cinst docker-compose
+
+cinst nodejs.install
+cinst googlechrome
