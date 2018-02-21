@@ -4,5 +4,5 @@ Invoke-Expression .\commonSetup_Start.ps1
 
 Install-BoxstarterPackage -PackageName ./boxstarter_Test.txt -DisableReboots
 
-#Chocolatey command to refresh the current session
+# Chocolatey command to refresh the current session
 refreshenv
